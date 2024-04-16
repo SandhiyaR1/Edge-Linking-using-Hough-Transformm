@@ -70,3 +70,6 @@ plt.show()
 
 ### Display the result of Hough transform
 ![image](https://github.com/SandhiyaR1/Edge-Linking-using-Hough-Transformm/assets/113497571/5ca5ca82-9a41-47e7-a2bb-63fcc63c659f)
+
+## Result
+Thus the program is written with Python and OpenCV to detect lines using Hough transform.
